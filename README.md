@@ -1,2 +1,14 @@
 # datasciencecoursera
-For coursera data scientist tools class
+
+This is for the Data Scientist's Toolbox Coursera class taught by Jeff Leek
+
+
+
+
+
+
+
+
+
+
+
